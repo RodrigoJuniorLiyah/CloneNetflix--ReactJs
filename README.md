@@ -28,5 +28,15 @@
 ## 4º Funcionalidade - Tela de Loading(carregamento) clássica do Netflix
 <p>Uma tela de carregamento é apresentada ao entrar no site pela primeira vez<br> ou quando é atualizada a página.</p>
 <div align="center">
-<img src="./gifs/Loading.gif" alt="Loading">
+<img src="./gifs/Loading.gif" alt="Loading" height="425">
 </div>
+
+## 🚀 Tecnologias utilizidas
+Essas foram as tecnologias utilizadas para a produção do site
+
+- ✔ JavaScript
+- ✔ ReactJs
+- ✔ useEffect
+- ✔ useState
+- ✔ CSS
+- ✔ HTML

@@ -1,10 +1,10 @@
 <h1 align="center">
+<br>
  Clone do Netflix
+ <br>
 </h1>
-
-<p align="center">Este site é um clone do netflix para fins de prática e estudo.<br> Todo direito de imagem pertencem a Netflix.</p>
-
-
+ <br>
+ <p align="center">Este site é um clone do netflix para fins de prática e estudo.<br> Todo direito de imagem pertencem a Netflix.</p>
 
 ## 1º Funcionalidade - Animação Barra do Topo
 mudança gradual da barra no top do site, que é apresentada<br> após fazer um leve scroll para baixo

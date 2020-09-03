@@ -11,3 +11,7 @@ Destaque gradual nos botões e nas imagens de filmes e sérias. Ocorre gradualme
 
 ## 3º Funcionalidade - Animação na movimentação dos conteúdos
 Movimentação para esquerda e para direita na capa dos conteúdos, para que possa ver mais filmes/series relacionadas ao tópico selecionado.
+
+
+## 4º Funcionalidade - Tela de Loading(carregamento) clássica do Netflix
+Uma tela de carregamento é apresentada ao entrar no site pela primeira vez ou quando é atualizada a página.
